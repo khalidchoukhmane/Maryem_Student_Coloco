@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979372225210",
+    "firebase_url": "https://student-coloco-cb7d7.firebaseio.com",
+    "project_id": "student-coloco-cb7d7",
+    "storage_bucket": "student-coloco-cb7d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979372225210:android:96770761d2821b852e0883",
+        "android_client_info": {
+          "package_name": "com.example.studcoloco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979372225210-i2aqa6tnq1bvh19t4kquum71ihggjed5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJI4kh_UskEvEnTHshciCo5fIBF7yZ0LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979372225210-i2aqa6tnq1bvh19t4kquum71ihggjed5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
